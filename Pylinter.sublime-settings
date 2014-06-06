@@ -1,0 +1,18 @@
+{
+    // Configure pylint's behavior
+    // "pylint_rc": "/Users/daniel/dev/pylintrc",
+
+    // Show different icons for errors, warnings, etc.
+    "use_icons": false,
+    "disable_outline": true,
+
+    // Automatically run Pylinter when saving a Python document
+    "run_on_save": true,
+
+    // Don't hide pylint messages when moving the cursor
+    "message_stay": true,
+
+    // Full path to the lint.py module in the pylint package
+    "pylint_path": "/Users/ThePFMind/.virtualenvs/tornado-file-upload/bin/pylint",
+
+}
