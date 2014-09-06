@@ -7,7 +7,7 @@
     "disable_outline": true,
 
     // Automatically run Pylinter when saving a Python document
-    "run_on_save": true,
+    "run_on_save": false,
 
     // Don't hide pylint messages when moving the cursor
     "message_stay": true,
